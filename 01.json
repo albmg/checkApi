@@ -1,0 +1,28 @@
+{
+  "data":[
+    {
+     "chain": "Hi",
+     "city": "LPA",     
+     "name": "good",
+     "id": "01"
+    },
+    {
+     "chain": "Ho",
+     "city": "MAD",     
+     "name": "bad",
+     "id": "02"
+    },
+    {
+     "chain": "Ha",
+     "city": "LON",     
+     "name": "rather",
+     "id": "03"
+    },
+    {
+     "chain": "Hu",
+     "city": "BAR",     
+     "name": "enough",
+     "id": "04"
+    }
+  ]
+}
