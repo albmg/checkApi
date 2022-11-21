@@ -35,6 +35,16 @@
      "city": "POR",     
      "name": "yes",
      "id": "06"
+    },
+    {
+     "chain": "Hoo",
+     "city": "PQR",     
+     "name": "maybe",
+     "id": "07",
+      "coords": {
+        lat: 24.71,
+        lon: 2.75
+      }
     }
   ]
 }
