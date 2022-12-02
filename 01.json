@@ -23,28 +23,6 @@
      "city": "BAR",     
      "name": "enough",
      "id": "04"
-    },
-     {
-     "chain": "He",
-     "city": "PEN",     
-     "name": "not",
-     "id": "05"
-    },
-    {
-     "chain": "Ho",
-     "city": "POR",     
-     "name": "yes",
-     "id": "06"
-    },
-    {
-     "chain": "Hoo",
-     "city": "PQR",     
-     "name": "maybe",
-     "id": "07",
-      "coords": {
-        "lat": 24.71,
-        "lon": 2.75
-      }
     }
   ],
     "me": {
