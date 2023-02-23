@@ -1,1 +1,38 @@
-{}
+{
+  "data":[
+    {
+     "chain": "Hi",
+     "city": "LPA",     
+     "name": "good",
+     "id": "01",
+     "image": "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/8c/46/hotel-exterior.jpg"
+    },
+    {
+     "chain": "Ho",
+     "city": "MAD",     
+     "name": "bad",
+     "id": "02",
+     "image": "https://content.r9cdn.net/rimg/himg/09/47/90/leonardo-56177-147404989-201235.jpg?width=500&height=350&xhint=1560&yhint=1000&crop=true"
+    },
+    {
+     "chain": "Ha",
+     "city": "LON",     
+     "name": "rather",
+     "id": "03",
+     "image": "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/8c/46/hotel-exterior.jpg"      
+    },
+    {
+     "chain": "Hu",
+     "city": "BAR",     
+     "name": "enough",
+     "id": "04",
+     "image": "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/8c/46/hotel-exterior.jpg"      
+    }
+  ],
+    "me": {
+        "co": 20,
+        "link": {
+            "no": ""
+        }
+    }
+}
