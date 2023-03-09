@@ -4,16 +4,16 @@
       "type" : "act",
       "id" : "01",
       "name": "whatever",
-      "rating": "",
-      "mindur": "",
+      "rating": "4.2",
+      "mindur": "1 hour",
       "pric": {}     
     },
     {
       "type" : "act",
-      "id" : "01",
-      "name": "whatever",
-      "rating": "",
-      "mindur": "",
+      "id" : "02",
+      "name": "wherever",
+      "rating": "5.4",
+      "mindur": "8 hour",
       "pric": 
         { 
           "amo": "90.8",
