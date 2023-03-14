@@ -1,0 +1,31 @@
+{
+  "data": [ 
+    {
+      "type" : "loc",
+      "subtype" : "poi",
+      "id": "ABC123",
+      "name": "whatever",
+      "category": "one",
+      "rank": 4,      
+      "tags": [ "one", "two", "three", "four", "five", ]     
+    },
+    {
+      "type" : "loc",
+      "subtype" : "poi",
+      "id": "DEF456",
+      "name": "wherever",
+      "category": "two",
+      "rank": 100,      
+      "tags": [ "one", "two", "three", "four", "five", ]     
+    },
+    {
+      "type" : "loc",
+      "subtype" : "poi",
+      "id": "GHI789",
+      "name": "never",
+      "category": "one",
+      "rank": 15.2,      
+      "tags": [ "one", "two", "three", "four", "five", ]     
+    },
+]
+}
