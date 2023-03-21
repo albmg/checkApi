@@ -7,7 +7,7 @@
       "name": "whatever",
       "category": "one",
       "rank": 4,      
-      "tags": [ "one", "two", "three", "four", "five"]     
+      "tags": [ "rest", "shop", "trans", "act", "sight"]     
     },
     {
       "type" : "loc",
@@ -16,7 +16,7 @@
       "name": "wherever",
       "category": "two",
       "rank": 100,      
-      "tags": [ "one", "two", "three", "four", "five"]     
+      "tags": [ "night", "bar", "shop", "trans", "act", "sight"]     
     },
     {
       "type" : "loc",
@@ -25,7 +25,7 @@
       "name": "never",
       "category": "one",
       "rank": 15.2,      
-      "tags": [ "one", "two", "three", "four", "five"]     
+      "tags": ["rest", "trans", "act", "sight", "bar", "act"]     
     },
 ]
 }
